@@ -54,3 +54,4 @@ Any further questions and comments can be asked on our [Telegram Group](https://
 * Project Submission: `2nd October 2020, 23:59`
 * Project Evaluation: `3rd October 2020 - 8th October 2020`
 * Results Announcement: `7th October 2020` (Tentative)
+
